@@ -1,0 +1,23 @@
+{
+  "name": "fibonacci_api",
+  "version": "1.0.0",
+  "description": "A REST API for the fibonacci sequence",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evelynhull710/fibonacci_api.git"
+  },
+  "author": "Evelyn Hull <evelynhull710@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evelynhull710/fibonacci_api/issues"
+  },
+  "homepage": "https://github.com/evelynhull710/fibonacci_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
